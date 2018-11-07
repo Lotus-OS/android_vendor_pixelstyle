@@ -19,6 +19,7 @@ PRODUCT_PACKAGES += \
     WallpaperPickerGooglePrebuilt \
     WellbeingPrebuilt \
     MarkupGoogle \
+    SubstratumSignature \
     WeatherClient
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
