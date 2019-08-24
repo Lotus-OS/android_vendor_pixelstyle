@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     MarkupGoogle \
     SubstratumSignature \
+    ScreenRecorder \
     WeatherClient
 
 ifeq ($(TARGET_GAPPS_ARCH),arm64)
